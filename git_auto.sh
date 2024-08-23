@@ -13,7 +13,7 @@ git add .
 if [ -z "$1" ]; then
   commit_message="auto commit #$next_commit_count"
 else
-  commit_message="$1"
+  commit_message="$1 #$next_commit_count"
 fi
 
 # Commit with the message
