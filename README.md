@@ -7,11 +7,5 @@ To create databases for inventory management system, especially goods trading co
 Using Bash Terminal:
 
 ```python
-git clone 
-```
-
-Running the venv:
-
-```py
-source venv/Scripts/activate
+git clone https://github.com/keanteng/trading-database
 ```
