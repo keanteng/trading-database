@@ -1,0 +1,82 @@
+[
+    {
+        "id": "d2d28fa7c1a030c2fecac0922103f5c9f58644a3b7efaba6cd7a7567ccd56ef8d37f23ad",
+        "name": "Electronics"
+    },
+    {
+        "id": "5422180a4f5bae93aafcdb94bba56cc508cb27b16d53526c6eddbd4c76e84b6e2c003fff",
+        "name": "Clothing"
+    },
+    {
+        "id": "f5fb7d72e8964fce808154e111ab087d05593bd2402765b626160a945e092524e06ee0cf",
+        "name": "Books"
+    },
+    {
+        "id": "ef0a276666cbe072b3ad6dac4108b0d945b20c079e07b6e395116528e396df766543ba24",
+        "name": "Home Appliances"
+    },
+    {
+        "id": "62133c0c92d6a9315eb8c383e3998f98a28247eca1f4e032d46e9214a25319cc2333a88f",
+        "name": "Furniture"
+    },
+    {
+        "id": "418ff1353266b511219ac8e9f6601c601f68929a84ce54d4dbe3ec6ca55c21e728ae14be",
+        "name": "Toys"
+    },
+    {
+        "id": "8edbcd0e9cef87e84d2d0d9069c22ca711cf67a00811b2ac0494f86b30c2956393ecca0c",
+        "name": "Sports Equipment"
+    },
+    {
+        "id": "acf1a5df34d8ad624d0843096bbd9da12089bbc93fd03d51bedacab65fdfa819d7808301",
+        "name": "Beauty Products"
+    },
+    {
+        "id": "6dabfbf4729bbe8afd1a7984b4cca4d0d159b37870b173b8bf3a91a5013d75a75c8ae169",
+        "name": "Automotive Parts"
+    },
+    {
+        "id": "8ac0446bba76ad1106ba7351d368ec62f74aff5fd333a59c1f0ae4382a14f9432f6af1d5",
+        "name": "Groceries"
+    },
+    {
+        "id": "549bcc365afb03073212fce970c3269bc902ae28910567e2e112102e613ceb48cd28dc75",
+        "name": "Office Supplies"
+    },
+    {
+        "id": "3620a52765dd23148980d97a786f3ff444e2ebc453cfb2b79d9f6be79bf8938e4268cd25",
+        "name": "Garden Supplies"
+    },
+    {
+        "id": "add59abb3a59a8a4ee58baa0187397eb9c43f074693f2ad9f5b594a9fb17f42c7e3a2207",
+        "name": "Pet Supplies"
+    },
+    {
+        "id": "15a55ce238bfec03cfcbee4e96b78b1df911a80477a71f510c26a85075441c3835ddd950",
+        "name": "Health Products"
+    },
+    {
+        "id": "513aaadbc85a4996bd8d9c4d5c0c3a693adaaf68fbab4ba7c7b8e800023c886650db81c7",
+        "name": "Jewelry"
+    },
+    {
+        "id": "02cc35a087c17860719a756d801b8b5f9a6d05ae8e46982bfc1369975f163c80b38e01d1",
+        "name": "Footwear"
+    },
+    {
+        "id": "7cc5085a9519ebe3e3129182d34e9010840ed7a06fbd2d93f3ebe021f917be561f1735ff",
+        "name": "Tools and Hardware"
+    },
+    {
+        "id": "f4bbeedabeb256bb56cd2c8f7019b43b5bd499f981a3bf70ca14d1380870929e3ae0b149",
+        "name": "Musical Instruments"
+    },
+    {
+        "id": "a0ef1b7cb0049bbd234586e9829271ca913ec04ce08d5fd9f2247c614a5078bd47cf2c3c",
+        "name": "Baby Products"
+    },
+    {
+        "id": "67f549703fa92626465e24c2fef0ff88f4eb1d8f3e8c143e42b1a706bfda9d3a075a5719",
+        "name": "Outdoor Gear"
+    }
+]
