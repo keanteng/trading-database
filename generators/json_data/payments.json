@@ -1,0 +1,401 @@
+[
+    {
+        "id": "21cc0294995d4754f6c9807c36621614fa5686832ea051e1dc407e220c16dad98e993c93",
+        "order_id": "9127202a93f1b8a32f2867ca9b117cd44c03f0846a870c6e98d7a774ecc22d9a422533a3",
+        "date": "2025-08-14",
+        "payment_method": "check",
+        "total_price": 939.9851999999998
+    },
+    {
+        "id": "9b22ca8cbec2dd7764623b70d766c3cfa48d9d7af75575d9b18c9ab0a5045cdf9c00a3dc",
+        "order_id": "cae9675b3840f96ecdd96468c6f717685bbba764dc74ecc0a59d689b44f6836e9c6aaee9",
+        "date": "2025-05-17",
+        "payment_method": "check",
+        "total_price": 494.8147199999999
+    },
+    {
+        "id": "bdff5eedb5d03a182b66b53135c62957a2aea98840904cbb8e23a34a7387bc27c16e46fe",
+        "order_id": "26ef8b2f6dd98b1fef10ea2b460dacc67257b64ab1c0db07cf21f721f5a2ce2ed92b65a3",
+        "date": "2025-07-07",
+        "payment_method": "bank transfer",
+        "total_price": 1985.7696
+    },
+    {
+        "id": "fc766920f9c66cb89bb305dfaf3aefee7c1d315403c0f42192cc3716af04b6e5c46a8fcc",
+        "order_id": "35a6a46e37d759c792cfccb799350453933b87803765f7c5a2ed07b2a6c9f82762d1a641",
+        "date": "2025-06-29",
+        "payment_method": "electronic wallet",
+        "total_price": 2317.816319999999
+    },
+    {
+        "id": "633881f7554e347af10ff84f6649e461d2d368db6caab083db2afc4cffd0a78303e5ec52",
+        "order_id": "ed6dfe51e84b33987e3211521eaae618c13e1dfbe06d014e365b54b269b555aadc6b4810",
+        "date": "2025-05-29",
+        "payment_method": "check",
+        "total_price": 1462.4704799999997
+    },
+    {
+        "id": "e2ee299fdbac568c2f9cd212a00ba34b98a5f52fd278b17e013394d10502bdb715bf75de",
+        "order_id": "5929a881b18337cbd9ba2d6c21bea6f39427ea73cf5e2b7dd4f5d68c8cf322ac4b3cc139",
+        "date": "2025-09-26",
+        "payment_method": "credit card",
+        "total_price": 3829.931039999999
+    },
+    {
+        "id": "5b8092ffc5c8f6231ce0622a2084a211072dd52fa0aa23dd8129bfdfa93e42b3aa05c0c6",
+        "order_id": "1739e441100681e9eceff2c14d0d90f238cd7878b5a2e94c38879aa884fdedd849cd4fd7",
+        "date": "2025-12-04",
+        "payment_method": "bank transfer",
+        "total_price": 1664.3028000000002
+    },
+    {
+        "id": "d7436915bcf098ffab39d4d5cfb699c8ff54fd528c854813fd859cfe0624ed329e1d708e",
+        "order_id": "ec8f06cd860ec2bb41a8355e731e9762c491153f5b3130c015a71056879dc6098724b980",
+        "date": "2025-08-30",
+        "payment_method": "check",
+        "total_price": 3386.38824
+    },
+    {
+        "id": "bc5741a4a6829088401c7267f92b921146edeadb79c42d28eebe1e2dbbd50c1c8e7b8588",
+        "order_id": "374237ae7dd2d0ee10e9dbd5437791a9da1b8524fd1e726cfd9b0af5845c25fcbd182ebb",
+        "date": "2025-08-17",
+        "payment_method": "check",
+        "total_price": 639.6782399999998
+    },
+    {
+        "id": "15f638ec18c98c323d9feecf73dfb4127c5fedb0219aad71ea1c9921d60077e21150d4fc",
+        "order_id": "b8d29696d064d432c46282fff6573f2b463b2c49ec5f6b5c114ba56c85eddaacb3dfc8fa",
+        "date": "2025-05-12",
+        "payment_method": "check",
+        "total_price": 398.78159999999997
+    },
+    {
+        "id": "499157455861cb50d042ee03f8c747780e79018dfe723c8cd9273cc3e9809a5774465c78",
+        "order_id": "a1e96615582fd6030802b219ca16772c1882f7d282aad7bdbd9b39fb9b23359a8bcc8392",
+        "date": "2025-09-27",
+        "payment_method": "cash",
+        "total_price": 2458.61064
+    },
+    {
+        "id": "79e643b95740ec146b5449349434bde8503157a2baf863e9e54809a692b687a4e44aec07",
+        "order_id": "957630803ac28cbcf66872fe63ebca8053b79036700612b7f0a4503e56561b223e555a9c",
+        "date": "2025-06-26",
+        "payment_method": "check",
+        "total_price": 1871.8319999999997
+    },
+    {
+        "id": "7ae0c7f27f10aa053a6e53c280c44e34bfe95cfbc867f491d4bc3466e95bfe016ac844d5",
+        "order_id": "fadbab608bd1db34e9e88709070019ec448b01307b785d9f1780bc122d5d03e3794b8fd1",
+        "date": "2025-09-15",
+        "payment_method": "check",
+        "total_price": 3364.4145599999997
+    },
+    {
+        "id": "31335e4448f4c4df3c374951e610ad3c1bf5b8350abae683f0414816a547d7f74f3ab86d",
+        "order_id": "d35027d334dd93aec569efc2d97ad14af6e1f86ecd37175d84b0b7fe4950ac92bde90c88",
+        "date": "2025-07-11",
+        "payment_method": "cash",
+        "total_price": 3535.32096
+    },
+    {
+        "id": "354c9d61c4281033fd12306809f90fc1a20b6435c57dd6405c71ad7f91a4320d978b5fc7",
+        "order_id": "4446811fa76622c11373584d8018fdae759dced66f721567f8ef367381283a8ef97ed8dc",
+        "date": "2025-05-21",
+        "payment_method": "bank transfer",
+        "total_price": 3237.455520000001
+    },
+    {
+        "id": "9f49337fad1d2d434b852312c93d735fd5e2a5465d8a386dc1015e585b3dc03ebd614c47",
+        "order_id": "63591f55aba0d733adaead4fe59740edf56b256f3e1816a5844922c706b9ca5a8e4bfd22",
+        "date": "2025-07-07",
+        "payment_method": "cash",
+        "total_price": 2304.7948800000004
+    },
+    {
+        "id": "1776cb12f8372259e341262e53c6df17672c49a7c4b7f60aefa35902873dffee848d5af2",
+        "order_id": "d9ef7720e0edb3e4bba2adbe5056892a9d1b789801b4bf4cbbd0cb86cfd7f753105327f1",
+        "date": "2025-05-24",
+        "payment_method": "electronic wallet",
+        "total_price": 1045.7843999999998
+    },
+    {
+        "id": "30888daeab20a796514b284fc68077207d087c344f8f216dbce82c0eff22aae8f2832a63",
+        "order_id": "6ec02a5d304040bb8e7522fa630d1ac3c9d4720889cce45b0ff9ad8264d8e0578c9a4699",
+        "date": "2025-06-02",
+        "payment_method": "cash",
+        "total_price": 1101.9393599999999
+    },
+    {
+        "id": "3b4c249d049a9fa8daada08f1e3bae01c083d3a8b54f0b4c81aa911c6afcba984f7f3e0e",
+        "order_id": "318d8fc61fa34af65a35af095c7dd4bf6aad961dbf33a242887869cbef51a91094e92e17",
+        "date": "2025-11-19",
+        "payment_method": "bank transfer",
+        "total_price": 3348.13776
+    },
+    {
+        "id": "79bad93c837a00eaae5b63c8ca59f51996d0d94b83e926d6a9a2f081c2d71ae19732e5d0",
+        "order_id": "adb5fa81652ecc774042c54a334b5d207564302ba67c977eeabdf54a425f5f5d64aea731",
+        "date": "2025-12-07",
+        "payment_method": "check",
+        "total_price": 2303.9810399999997
+    },
+    {
+        "id": "9ea8f9c573c0a9f3162ab8471eb092b7353a567c3d8e5b15c95e6dae2471e3a6ad6f6dfb",
+        "order_id": "2e9f34c1a6be3304a351f46d57221f11c62975197cf6bb5ddb4b059061ca2732bbffd955",
+        "date": "2025-05-26",
+        "payment_method": "cash",
+        "total_price": 786.98328
+    },
+    {
+        "id": "7b209c0c152879785c477243dd1f04ee569588de9e57aedbb56167eb9683828c9ba5d3ba",
+        "order_id": "cf742d7a73a1466d11261535989c8f7959490d9d6f9e71f5e58728b2955e21686ae3bec4",
+        "date": "2025-10-04",
+        "payment_method": "cash",
+        "total_price": 4091.173680000001
+    },
+    {
+        "id": "94b3d8968247a5a6779c191f618e22fd3d7468cd204bf2ce5dbb22f3fd234a06914a9e42",
+        "order_id": "655e2e5198a095903264b537084b5d81fdfec5d0a2e901c37fcbd0d1715566aeb61bc49a",
+        "date": "2025-10-19",
+        "payment_method": "cash",
+        "total_price": 1309.46856
+    },
+    {
+        "id": "638be7edf918bfa2412ab903f94532f33c12e01ce8c14b6eba0444235a267ed1dcdb66df",
+        "order_id": "a708f95fdbc3a9031811d98e85f8ff4aef3d66343858fffae5d3258a3463c4cda4718b2a",
+        "date": "2025-12-30",
+        "payment_method": "cash",
+        "total_price": 65.92103999999999
+    },
+    {
+        "id": "fd03be2879efcf156005abd5a9f6e94ecb183c85a4e165d7336fee19ff9f59298abcc684",
+        "order_id": "020c3f99da42ab15e390f62fb5d5a080603bec2de4eae72a514c33e995249aa1dc0807b2",
+        "date": "2025-12-09",
+        "payment_method": "check",
+        "total_price": 1591.0572
+    },
+    {
+        "id": "1f3b678cbaccbf8210d16e4ff6be1626e6c56a49b9f607421e754833b0536a07a5d19c3d",
+        "order_id": "b2aaecdfd1ed5a929717d60c7c035e583408c3e89ef933659f5d38c53f6efb38d24819aa",
+        "date": "2025-06-27",
+        "payment_method": "check",
+        "total_price": 3281.4028800000006
+    },
+    {
+        "id": "f64d45abd99e24fa136709ef26009ed5e502151eb616654b25d50ec7fde61482529cfe89",
+        "order_id": "60b2fa6e134d2fb65347e580ce13f868bf05ff499790984f91653d5f43d3755c7c0c2d2b",
+        "date": "2025-06-09",
+        "payment_method": "cash",
+        "total_price": 136.72511999999998
+    },
+    {
+        "id": "ba09f1813207b822427f5e671e9ba1f3ea18771e30fb7418bb0a6305b4eeb7f1a5cfc350",
+        "order_id": "85e60eef81fa5285321c49814b18f60d37f414386e3bdc8cfb86927bd4d16b3879f920f7",
+        "date": "2025-06-02",
+        "payment_method": "electronic wallet",
+        "total_price": 366.22799999999995
+    },
+    {
+        "id": "695f2fe2ffd0af6796d8dd7618d52510cec28a5056cc91787f548cb51302272fed299656",
+        "order_id": "ea829058c4ede0843b7b2cbb13d7b4df46e98e412754cb438831484c19bd8169a5198664",
+        "date": "2025-10-28",
+        "payment_method": "check",
+        "total_price": 1151.5836
+    },
+    {
+        "id": "79593882320a9929fabbccc3b7c4db7653114b05560150716b26dc524eb00217e3276174",
+        "order_id": "ffa32691c8adb81016714ec0d847791f3074bd50d9e407be1a50225a932d0e1d7db35122",
+        "date": "2025-11-26",
+        "payment_method": "cash",
+        "total_price": 1432.3583999999996
+    },
+    {
+        "id": "0d104a5f03f4489d81b23117e4b2375157b8d68f12d91979724a0b1d81d492fd06487cd6",
+        "order_id": "2e012d3b4f841b214dc1cb06ba2b54d40c226c95a6ad36519fcbae2ea9d45e36d159bff2",
+        "date": "2025-08-31",
+        "payment_method": "bank transfer",
+        "total_price": 2075.292
+    },
+    {
+        "id": "fc05eecc4a320eafa5021319a8ae728635a483983ed56fd4aae3cce5380fe4ba41a8f668",
+        "order_id": "683d2a0c36757a286aaa209d8640de1c1f6623d0d981c908db23cdc7a7e9e411fc48232a",
+        "date": "2025-06-22",
+        "payment_method": "check",
+        "total_price": 2713.3425599999996
+    },
+    {
+        "id": "f0e75f5f4cf71aa0a0d30557132e13bc74f12478b1e75db65f1b42137f8a09011ebd7afb",
+        "order_id": "c9acfef58e4f497b122f801dba00d4db55fccb894c5ed5919aa54bd1fd121f75e94fd788",
+        "date": "2025-07-02",
+        "payment_method": "bank transfer",
+        "total_price": 2365.83288
+    },
+    {
+        "id": "cd64268d9774e2d3e42b52d438a590da0ff0ee3d291b3566fefa1945bd5c569c0fd8a286",
+        "order_id": "d2c9a144e13978ce7154746750bda5756fa67d2e5f42884b3ad17a4e5fee4c15350d86fb",
+        "date": "2025-08-14",
+        "payment_method": "cash",
+        "total_price": 410.9891999999999
+    },
+    {
+        "id": "5bcb62799d1f41b6a91ef61cf0468209fb034ab3f6f9e2137c82eaceedfa8842f9411d02",
+        "order_id": "62c9a645b2dc032f2ec254767688525a63ce4c9ccabf8e2463b33a8e66e519253a6d549e",
+        "date": "2025-10-24",
+        "payment_method": "cash",
+        "total_price": 874.878
+    },
+    {
+        "id": "83a62635b700084e0a491ca3a9847b21269f5255d7cc00a986237bf7a68521c7e3b2e403",
+        "order_id": "7461cd34b07e6adc178591c8614a0e7afc6e2b54d831203eda05496dcbcedb137d3bcdcb",
+        "date": "2025-05-12",
+        "payment_method": "bank transfer",
+        "total_price": 707.6338799999999
+    },
+    {
+        "id": "6e8eb77f8f42d86cfa11412bf8f956f5fc8d20f3fa1cb4815730fb92906af6107d1d1691",
+        "order_id": "ec52c46fa6414cecb970be899e6a7b9a8598f703e7be7de6fff4e9db4c821bf545ab1c40",
+        "date": "2025-06-15",
+        "payment_method": "cash",
+        "total_price": 458.1919199999999
+    },
+    {
+        "id": "2d7b7b3e0d2078d8327208a983de0ab168f247d2345e7c8445acaaa5179ac9e6c81a1e32",
+        "order_id": "abf8fef0705c0f8863281ab47edf255d9311f04080ed9fa4e4a7b3d9eac4ba5d552169b4",
+        "date": "2025-06-25",
+        "payment_method": "check",
+        "total_price": 721.06224
+    },
+    {
+        "id": "0ba613c1b46e5c3676fd50745598f621073f92b21b675cf5975a632d5881053c4edfe67b",
+        "order_id": "bc8cb74ef69040d43378664c12cbf04ce547eabd76e2c0109037db6044493617b3b4b5fe",
+        "date": "2025-08-15",
+        "payment_method": "bank transfer",
+        "total_price": 2056.57368
+    },
+    {
+        "id": "577e6b4462d78ace36c74098f99f6e9772b0682ba0c61223a9d99a6af9fcb6d15753be38",
+        "order_id": "98ca348d86b644ebf5d02ab7d43b9220d4b536e8eaacb693014faa745b8ce0e7d563eba9",
+        "date": "2025-05-29",
+        "payment_method": "check",
+        "total_price": 1941.0083999999997
+    },
+    {
+        "id": "f1f7cf38bc80e3078b7f3eb2656afac8265f3662878706b2fbeb6aae298ea07b3f30d4f8",
+        "order_id": "68c49889aeae7d2f92204ecbe073e1178fae3fc23bc5ff7dae1ca3108e35f3b7f1ec659c",
+        "date": "2025-11-01",
+        "payment_method": "check",
+        "total_price": 913.9423199999999
+    },
+    {
+        "id": "7081f0622c2d07a5b7f7e18864f25c50abea5ac7210c2f4712db30d199dd53af5ac62d74",
+        "order_id": "e00a0a6a1df489b745a981023faad0c11050775e2b350db7031650d9715e010a2998162d",
+        "date": "2025-08-05",
+        "payment_method": "bank transfer",
+        "total_price": 4500.535199999999
+    },
+    {
+        "id": "023a726346ee1a4bcac8063fd06f87ee8035cefe3174d286657aee49aa01b3158ebcee59",
+        "order_id": "3568d096eef2dbb836d19dcbe2c01d425daf09169c84c3795ff830c3939eeee758f81415",
+        "date": "2025-12-21",
+        "payment_method": "cash",
+        "total_price": 1412.0123999999998
+    },
+    {
+        "id": "18eeddbaad7b4e2c959cb43348d688e090baaea83913afb2ea203ea6473832c797d94169",
+        "order_id": "a12a212c13519040b13f2fc219637447624e0a6161a5f435b665d1804fd6a9ff1ac1af92",
+        "date": "2025-06-05",
+        "payment_method": "check",
+        "total_price": 2757.28992
+    },
+    {
+        "id": "8912bcd29e7a26d5d199df12fea19622d4d00cf4b50ad28a9e43cce108c563373263d878",
+        "order_id": "c0c5c7cf4709da0e17decfb6f92cb8f6ce3365f99aab455d914cd0951f32d7d94f02aa9e",
+        "date": "2025-07-09",
+        "payment_method": "check",
+        "total_price": 993.6986399999997
+    },
+    {
+        "id": "0739a022aa5d7e6b3c94539bebcc08ff6c248c2042f47a04c6f6394d885be4b0e5aa3697",
+        "order_id": "72efcb6defa0117bd12cb25732e55d8fd2f297d52f03330e37bca90cdaea2f2ab93749ed",
+        "date": "2025-11-19",
+        "payment_method": "electronic wallet",
+        "total_price": 2478.95664
+    },
+    {
+        "id": "9329ec7f68aa6c6283bb2185f442685c216df95b757adea91de9f1aebcca722cb3833e30",
+        "order_id": "85c00a624907be8024ec1b7fd6679d15aa5e0ee1272eb827c792696cc3022644009f61f1",
+        "date": "2025-10-27",
+        "payment_method": "cash",
+        "total_price": 1008.3477599999999
+    },
+    {
+        "id": "70b85f0ab8e67309137045d05f9ee7fb1793b72e0a0f4e750d393e9769ee5e4148134abe",
+        "order_id": "e42a70a60d1c245414c8efd528f675a0a23c399c6ece58d0fa38a0643a978d46790aea52",
+        "date": "2025-05-11",
+        "payment_method": "bank transfer",
+        "total_price": 3778.6591199999993
+    },
+    {
+        "id": "54128e84a82c971a6a7d72f7aba9721843e71a3a15887545bb1a9ff5af5e92e93911a3a6",
+        "order_id": "bf2f020a4fda96888279f23965960f93b8634c442f718b095398e3fb2f6b43061a54ba60",
+        "date": "2025-08-04",
+        "payment_method": "credit card",
+        "total_price": 622.5875999999998
+    },
+    {
+        "id": "97f69a0ddb78d09aa1da329ef7f064a89bd2ba806579034b36421714b9b3ddea63580aeb",
+        "order_id": "332bf0354ab4d39980b66fe17afe6dc1b862e01fd9bb19bd894633d30b0bf939684722c1",
+        "date": "2025-12-04",
+        "payment_method": "bank transfer",
+        "total_price": 2571.7344000000003
+    },
+    {
+        "id": "8fade5cdf78765d90bb10538eeef23a37c5fa8e1164402c2132cd3f7991501faa4dea6fe",
+        "order_id": "27e1966cd801980790cc0529ad3e81ac31fb330c057a54fbd1c72f3db4c4df22be2103b9",
+        "date": "2025-10-11",
+        "payment_method": "cash",
+        "total_price": 656.7688799999999
+    },
+    {
+        "id": "2b38da033de0a8322698c086db45e8adc615dfeb9b724749ae06fa611086c7a04e040549",
+        "order_id": "91558e930c809ad2d1841656fb4ccc7348cc1ffe3b6d7e2a776da54ae36a6704853f7f51",
+        "date": "2025-12-15",
+        "payment_method": "check",
+        "total_price": 841.5105599999998
+    },
+    {
+        "id": "102c4415091ee6a39871ef0ed7b119c404d1998b108759207aa1022e8f6e83144a6cda4f",
+        "order_id": "e400d13ef220424900ee4b73d45ca5e6731e53e3159d740c818e1330b1df56a6e3594521",
+        "date": "2025-07-18",
+        "payment_method": "cash",
+        "total_price": 2266.5443999999998
+    },
+    {
+        "id": "7028e9c1412a6878f3a7535049547cddafd150791e6176ea50bec92b45055ebe4da98d2d",
+        "order_id": "592af463a224993ab22f2c98d24536bbac99085ea2f799843d95ee8f4ede296d7ed131cf",
+        "date": "2025-12-05",
+        "payment_method": "check",
+        "total_price": 3594.7312800000004
+    },
+    {
+        "id": "a389969a700b117daf7721b71c07c45366fc1d3bf4d1cd75d75dea878b329a8718f5f841",
+        "order_id": "776b4d023aeb71e3bb5be0552901f2b4e8fb90ef0a33997b99ba1726fd88bfabc8f74d54",
+        "date": "2025-10-12",
+        "payment_method": "cash",
+        "total_price": 239.26895999999994
+    },
+    {
+        "id": "65ed9f24849171060d4776c47be304b6077feedefcbb1289c4193a9d4a168393a038bd48",
+        "order_id": "daeeb0e703af87ecd18fbe79427be62bde1f4a0fa599fc1a30982032705c5621fa95ab2c",
+        "date": "2025-08-26",
+        "payment_method": "check",
+        "total_price": 4398.8052
+    },
+    {
+        "id": "b83b4c1ea9900cddcd5a63ba817b25dbce3289407f285cfbb358651727330920e441d9bc",
+        "order_id": "e8a5c3f4a7cdacc41e74e245a790a55ccf8145fa1f32333128d9664adc5d402d0a7b8823",
+        "date": "2025-07-25",
+        "payment_method": "bank transfer",
+        "total_price": 1314.3515999999997
+    }
+]
